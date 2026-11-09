@@ -1,7 +1,6 @@
 import datetime
 import requests, re
 from bs4 import BeautifulSoup
-import write
 
 import PIL.Image
 import PIL.ImageDraw

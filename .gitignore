@@ -1,0 +1,29 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output assets & Temporary files
+*.png
+*.jpg
+*.jpeg
+*.txt
+!requirements.txt
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
